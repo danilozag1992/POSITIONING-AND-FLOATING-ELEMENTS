@@ -12,6 +12,20 @@ valuable practice.
 - HTML 
 - CSS
 
+## Usage
+
+> Clone the repository to your local machine
+
+```sh
+$ git clone https://github.com/danilozag1992/POSITIONING-AND-FLOATING-ELEMENTS.git
+```
+> cd into the directory
+
+```sh
+$ cd POSITIONING-AND-FLOATING-ELEMENTS
+```
+
+
 ## Developers
 
 * [Adama Chubiyojo Desmond](https://github.com/kobiyoyo)[(Email)](mailto:Adamachubi@gmail.com)
